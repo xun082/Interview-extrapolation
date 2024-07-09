@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 发布内推码
+    url: https://github.com/xun082/interview-extrapolation/issues/new?template=referral-code.md
+    about: 发布前后端职位内推码
